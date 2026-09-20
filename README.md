@@ -64,7 +64,6 @@ I'm continuing to strengthen my data analytics skills through practical projects
 - SQL
 - Dashboard development
 - Business-focused data analysis
-- Data storytelling and visualization
 
 ## 🎯 Portfolio Focus
 
