@@ -2,9 +2,11 @@
 
 I’m a Program Assistant with hands-on experience supporting program data management, reporting, enrollment operations, and participant services.
 
-I’m building my data analytics skills through practical projects using Python, SQL, Excel, pandas, and data visualization, with a focus on turning raw data into clear, useful insights.
+I’m currently pursuing a Bachelor of Science in Data Analytics at Western Governors University while continuing to strengthen my analytics skills through hands-on projects.
 
-My portfolio includes projects in data cleaning, exploratory data analysis, data wrangling, visualization, and analytical storytelling.
+I work with Python, SQL, Excel, pandas, NumPy, and data visualization to clean, explore, analyze, and communicate data clearly.
+
+My portfolio includes projects in data cleaning, exploratory data analysis, data wrangling, visualization, and analytical storytelling, with a focus on turning raw data into useful insights.
 
 ---
 
